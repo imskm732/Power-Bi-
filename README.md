@@ -40,7 +40,7 @@ AtliQo, a telecom provider in India, launched 5G in May 2022. This dashboard hel
 ---
 
 ## Live Dashboard
-[Access the live dashboard here]([YOUR_DASHBOARD_LINK](https://lnkd.in/gNGWR6vY)).
+[Access the live dashboard here](https://lnkd.in/gNGWR6vY).
 
 
 📌 This list is continuously updated.
