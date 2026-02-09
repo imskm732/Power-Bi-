@@ -23,6 +23,7 @@ A sample dataset and stakeholder-provided dashboard mock-up were shared to compl
 ---
 
 ## 📄 Dashboard Mock-up Pages & Purpose
+
 - **Executive Pulse**: Snapshot of revenue, occupancy, and ratings to track overall health and trends  
 - **Revenue Leakage**: Revenue loss from cancellations/no-shows by property and platform  
 - **Occupancy & Demand**: Capacity, demand, occupancy trends; room class + property efficiency  
@@ -45,11 +46,10 @@ A sample dataset and stakeholder-provided dashboard mock-up were shared to compl
 ## 🔗 Links
 
 - Live Dashboard: [Open Here](#)  
-- Demo Video: —  [Watch]()
+- Demo Video: —  [Watch]()  
 - Live Presentation: —  
 - Project Details: [Read More](https://codebasics.io/challenges/codebasics-resume-project-challenge/4)  
 
 ---
 
 📌 *This dashboard enables leadership to track performance trends, identify revenue leakage, and take data-driven actions to regain market share.*
-
