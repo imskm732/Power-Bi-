@@ -22,6 +22,12 @@ A sample dataset and stakeholder-provided dashboard mock-up were shared to compl
 
 ---
 
+## 📄 Dashboard Mock-up Pages & Purpose
+- **Executive Pulse**: Snapshot of revenue, occupancy, and ratings to track overall health and trends  
+- **Revenue Leakage**: Revenue loss from cancellations/no-shows by property and platform  
+- **Occupancy & Demand**: Capacity, demand, occupancy trends; room class + property efficiency  
+- **Guest Experience**: Guest ratings, cancellation impact, property-level satisfaction  
+
 ## 🔎 Key Insights
 
 - Revenue **↑ 3.4% MoM**, but occupancy **↓ 0.3%** → pricing/mix optimization needed  
