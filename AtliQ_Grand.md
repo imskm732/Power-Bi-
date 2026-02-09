@@ -22,16 +22,6 @@ A sample dataset and stakeholder-provided dashboard mock-up were shared to compl
 
 ---
 
-## 📂 Data & Resources
-
-The following resources were provided for analysis:
-
-- Dataset required for preliminary analysis  
-- Metadata documentation  
-- Supporting stakeholder documents and mock-up  
-
----
-
 ## 🔎 Key Insights
 
 - Revenue **↑ 3.4% MoM**, but occupancy **↓ 0.3%** → pricing/mix optimization needed  
@@ -47,7 +37,7 @@ The following resources were provided for analysis:
 ## 🔗 Links
 
 - Live Dashboard: [Open Here](#)  
-- Demo Video: —  [Watch()
+- Demo Video: —  [Watch]()
 - Live Presentation: —  
 - Project Details: [Read More](https://codebasics.io/challenges/codebasics-resume-project-challenge/4)  
 
