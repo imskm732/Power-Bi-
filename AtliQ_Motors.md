@@ -27,11 +27,11 @@ Key deliverables included:
 ---
 
 ## 📊 Dashboard Pages & Purpose
+
 1. **Market Overview**: EV market size, penetration, YoY growth, segment dominance, quarterly movement  
 2. **State Analysis**: State-wise penetration, CAGR trends, growth stability, high/low regions  
 3. **Makers Landscape**: Maker ranking, market share, concentration, category contribution (FY22–FY24)  
-4. **Strategy & Projections**: 2030 projections, sales scale, revenue momentum, competitive intensity, growth outlook 
-
+4. **Strategy & Projections**: 2030 projections, sales scale, revenue momentum, competitive intensity, growth outlook  
 
 ---
 
@@ -56,8 +56,4 @@ Key deliverables included:
 - Live Dashboard: [Open Here](#)  
 - Demo Video: [Watch Here](#)  
 - Live Presentation: [Access Here](#)  
-- Project Details: [Read More](https://codebasics.io/challenges/codebasics-resume-project-challenge/15)
-
----
-
-📌 *This dashboard enables leadership to evaluate India’s EV market readiness, identify high-growth states, understand competitive dominance, and shape a strategic expansion roadmap for AtliQ Motors.*
+- Project Details:
