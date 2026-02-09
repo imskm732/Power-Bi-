@@ -6,6 +6,16 @@ A central index of my Power BI dashboards and analytics projects.
 
 ## 🚀 Projects (Quick Links)
 
+| Project                         | Live Dashboard                              | Demo Video                              | Details Page                          |
+|----------------------------------|--------------------------------|--------------------------------|--------------------------------|
+| **Business Insight 360**       | [Open](https://lnkd.in/gk5gjJPM)    | —                              | [Details](YOUR_README_LINK)        |
+| **AtliQo – 5G Impact Analysis** | [Open](https://lnkd.in/gNGWR6vY)    | —                              | [Details](YOUR_README_LINK)        |
+| **AtliQ Grands – BI Dashboard**   | [Open](#)                           | —                              | [Details](YOUR_README_LINK)        |
+| **AtliQ Motors – India EV Market Expansion** | [Open](#)                           | [Watch](#)                       | [Details](YOUR_README_LINK)        |
+| **CodeX – India Market Insights**     | [Open](YOUR_DASHBOARD_URL_HERE) | [Watch](YOUR_PRESENTATION_URL_HERE) | [Details](YOUR_README_LINK)        |
+
+
+
 | Project | Live Dashboard | Demo Video |
 |---|---|---|
 | **Business Insight 360** | [Open](https://lnkd.in/gk5gjJPM) | — |
