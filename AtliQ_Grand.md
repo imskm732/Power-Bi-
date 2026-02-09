@@ -26,7 +26,9 @@ A sample dataset and stakeholder-provided dashboard mock-up were shared to compl
 - **Executive Pulse**: Snapshot of revenue, occupancy, and ratings to track overall health and trends  
 - **Revenue Leakage**: Revenue loss from cancellations/no-shows by property and platform  
 - **Occupancy & Demand**: Capacity, demand, occupancy trends; room class + property efficiency  
-- **Guest Experience**: Guest ratings, cancellation impact, property-level satisfaction  
+- **Guest Experience**: Guest ratings, cancellation impact, property-level satisfaction
+
+---
 
 ## 🔎 Key Insights
 
