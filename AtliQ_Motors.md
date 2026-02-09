@@ -56,4 +56,4 @@ Key deliverables included:
 - Live Dashboard: [Open Here](#)  
 - Demo Video: [Watch Here](#)  
 - Live Presentation: [Access Here](#)  
-- Project Details:
+- Project Details: [Read More](https://codebasics.io/challenges/codebasics-resume-project-challenge/15)
