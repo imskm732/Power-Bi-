@@ -10,6 +10,13 @@ AtliQo is one of the leading telecom providers in India and launched its 5G plan
 2. The target audience of this dashboard is top-level management – hence the dashboard should be self-explanatory and easy to understand.
 3. Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
+## 📄 Dashboard Pages & Purpose
+
+- **Impact Overview**: High-level impact on revenue, active users, and ARPU  
+- **Demand Shift**: Churn diagnosis using matched period comparisons + ARPU tradeoffs  
+- **Share Dynamics**: Market share shift vs competitors  
+- **Offer Performance**: Plan-wise revenue movement and optimization opportunities
+
 ## 🔑 Key Insights
 
 - Revenue ↓ 1%, active users ↓ 8%, ARPU ↑ 11% → churn despite higher per-user revenue
