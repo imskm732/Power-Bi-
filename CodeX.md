@@ -43,6 +43,14 @@ Key responsibilities included:
 
 ---
 
+## 📄 Dashboard Mockup Pages & Purpose
+1. **Consumption Insights**: Frequency, age groups, reasons for consumption—key behavior patterns  
+2. **Awareness Funnel**: Awareness → trial → perception → taste rating—barriers to trial  
+3. **Competitive Landscape**: Competitors, preference drivers, improvement areas—differentiation levers  
+4. **Go-To-Market Strategy**: Best channels, price bands, purchase locations, packaging—launch optimization  
+
+---
+
 ## 🔎 Key Insights
 
 - Frequent consumers are primarily aged **19–30**, indicating a youth-driven market  
