@@ -26,6 +26,15 @@ Key deliverables included:
 
 ---
 
+## 📊 Dashboard Pages & Purpose
+1. **Market Overview**: EV market size, penetration, YoY growth, segment dominance, quarterly movement  
+2. **State Analysis**: State-wise penetration, CAGR trends, growth stability, high/low regions  
+3. **Makers Landscape**: Maker ranking, market share, concentration, category contribution (FY22–FY24)  
+4. **Strategy & Projections**: 2030 projections, sales scale, revenue momentum, competitive intensity, growth outlook 
+
+
+---
+
 ## 🔎 Key Insights
 
 - **2M EV sales** recorded with an overall **4% market penetration**  
