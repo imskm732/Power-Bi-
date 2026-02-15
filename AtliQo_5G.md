@@ -34,6 +34,6 @@ AtliQo is one of the leading telecom providers in India and launched its 5G plan
 
 ## 🔗 Links
 
-- Project Details: [Here](https://codebasics.io/challenges/codebasics-resume-project-challenge/6)
-- Live Dashboard: [Here](https://app.powerbi.com/groups/me/reports/076f360a-2b3d-4549-ad57-574b5f8cf789?ctid=3e9e10ad-1859-45e8-9c83-763062af4b6b&experience=power-bi)
-- Video: [Here](https://www.linkedin.com/posts/imskm732_powerbi-dataanalytics-businessintelligence-activity-7422254141932158977-rzpk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKaj2kB9MrAexEV67oIQs1uH2ugqC22uLw])
+- Project Details: [Open Here](https://codebasics.io/challenges/codebasics-resume-project-challenge/6)
+- Live Dashboard: [Open Here](https://app.powerbi.com/groups/me/reports/076f360a-2b3d-4549-ad57-574b5f8cf789?ctid=3e9e10ad-1859-45e8-9c83-763062af4b6b&experience=power-bi)
+- Video: [Watch](https://www.linkedin.com/posts/imskm732_powerbi-dataanalytics-businessintelligence-activity-7422254141932158977-rzpk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKaj2kB9MrAexEV67oIQs1uH2ugqC22uLw])
