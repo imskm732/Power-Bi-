@@ -45,9 +45,8 @@ A sample dataset and stakeholder-provided dashboard mock-up were shared to compl
 
 ## 🔗 Links
 
-- Live Dashboard: [Open Here](#)  
+- Live Dashboard: [Open Here](https://app.powerbi.com/links/QZAp-y-UfC?ctid=3e9e10ad-1859-45e8-9c83-763062af4b6b&pbi_source=linkShare)  
 - Demo Video: —  [Watch]()  
-- Live Presentation: —  
 - Project Details: [Read More](https://codebasics.io/challenges/codebasics-resume-project-challenge/4)  
 
 ---
