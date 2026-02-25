@@ -6,7 +6,7 @@ A central index of my Power BI dashboards and analytics projects.
 
 ## 🚀 Projects (Quick Links)
 
- Project | Live Dashboard | Demo Video | Live Presentation | Project Details |
+ Project | Live Dashboard | Demo Video | Live Presentation | Presentation Link | Project Details |
 |---|---|---|---|---|
 | **Business Insight 360** | [Open](https://lnkd.in/gk5gjJPM) |[Watch](https://www.linkedin.com/posts/imskm732_codebasicsabrbi360abrchallenge-powerbi-dataanalytics-activity-7410613068663255040-Znol?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKaj2kB9MrAexEV67oIQs1uH2ugqC22uLw) | — | [Details](#) |
 | **AtliQo – 5G Impact Analysis** | [Open](https://lnkd.in/gNGWR6vY) |[Watch](https://www.linkedin.com/posts/imskm732_powerbi-dataanalytics-businessintelligence-activity-7422254141932158977-rzpk?)  | — | [Details](https://github.com/imskm732/Power-Bi-/blob/main/AtliQo_5G.md)       |utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKaj2kB9MrAexEV67oIQs1uH2ugqC22uLw) | [Details](https://github.com/imskm732/Power-Bi-/blob/main/AtliQo_5G.md) |
