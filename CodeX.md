@@ -57,7 +57,8 @@ Key responsibilities included:
 
 - Live Dashboard: [Open Here](#)  
 - Demo Video: [Watch Here](#)  
-- Live Presentation: [Access Here](#)  
+- Live Presentation: [Access Here](#)
+- Presentation: [Access Here](#)
 - Project Details: [Read More](https://codebasics.io/challenges/codebasics-resume-project-challenge/9)  
 
 ---
