@@ -53,7 +53,7 @@ Key deliverables included:
 
 ## 🔗 Links
 
-- Live Dashboard: [Open Here](#)  
+- Live Dashboard: [Open Here](https://app.powerbi.com/view?r=eyJrIjoiNjY4ZWYyY2YtODg3NC00MGQ5LTkzZmQtYWMzOTcwYzZlZTlmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 - Demo Video: [Watch Here](#)  
 - Live Presentation: [Access Here](#)
 - Presentation: [Access Here](#) 
