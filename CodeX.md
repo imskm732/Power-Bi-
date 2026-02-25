@@ -55,7 +55,7 @@ Key responsibilities included:
 
 ## 🔗 Links
 
-- Live Dashboard: [Open Here](#)  
+- Live Dashboard: [Open Here](https://app.powerbi.com/view?r=eyJrIjoiMjY3ODczNzAtY2JjZS00ZDg1LTk4Y2UtODJiYmJiZWU3ZGZlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
 - Demo Video: [Watch Here](#)  
 - Live Presentation: [Access Here](#)
 - Presentation: [Access Here](#)
