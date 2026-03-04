@@ -46,7 +46,7 @@ A sample dataset and stakeholder-provided dashboard mock-up were shared to compl
 ## 🔗 Links
 
 - Live Dashboard: [Open Here](https://app.powerbi.com/view?r=eyJrIjoiZDNlOWUxZWEtZThmNS00ZTdmLTk3ZGEtNzQxODY4ZmFlNTQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
-- Demo Video: —  [Watch](https://www.linkedin.com/posts/imskm732_powerbi-dataanalytics-businessintelligence-activity-7428739497858621440-kUfO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKaj2kB9MrAexEV67oIQs1uH2ugqC22uLw)
+- Demo Video: [Watch](https://www.linkedin.com/posts/imskm732_powerbi-dataanalytics-businessintelligence-activity-7428739497858621440-kUfO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEKaj2kB9MrAexEV67oIQs1uH2ugqC22uLw)
 - Project Details: [Read More](https://codebasics.io/challenges/codebasics-resume-project-challenge/4)  
 
 ---
